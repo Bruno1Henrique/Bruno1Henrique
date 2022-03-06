@@ -1,7 +1,7 @@
 ### Ola👋
 
-- 🔭 Trabalho como Analista de Suporte Técnico
-- 🌱 Estou apredendo HTML, CSS, PHP e banco de dados
+- 👨‍💼 Trabalho como Analista de Suporte Técnico
+- 📘Estou apredendo HTML, CSS, PHP e banco de dados
 - ⚡ Fun fact: Inimigo de temas claros huahua (Just Dark Mode please)
 
 <div style="display: inline_block"><br>
