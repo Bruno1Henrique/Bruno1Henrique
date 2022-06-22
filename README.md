@@ -1,5 +1,5 @@
 - 👨‍💼 Trabalho como Analista QA
-- 📘Estou apredendo HTML, CSS, PHP, banco de dados e JS (Cypress)
+- 📘Estou aprendendo HTML, CSS, PHP, banco de dados e JS (Cypress)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
